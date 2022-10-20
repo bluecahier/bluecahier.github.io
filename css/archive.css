@@ -1,0 +1,22 @@
+.page_title {
+	font-size: 14px;
+	letter-spacing: .4px;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+	text-align: left;
+	font-family: "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif;
+	color: blue;
+}
+
+.posts_list {
+	width: 500px;
+}
+
+.posts_list td {
+	padding: 0px 0px 10px 0px;
+}
+
+.post_link {
+	font-size: 14px;
+	font-weight: bold;
+}

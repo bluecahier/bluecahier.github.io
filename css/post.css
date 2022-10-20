@@ -1,0 +1,44 @@
+article.post {
+	line-height: 23px;
+    font-size: 13px;
+    max-width: 500px;
+    min-width: auto;
+}
+
+article.post > header {
+	padding-bottom: 1em;
+}
+
+article.post > header > p {
+	font-size: 14px;
+	letter-spacing: .4px;
+	padding-bottom: 8px;
+	text-transform: uppercase;
+	text-align: left;
+	font-family: "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif;
+	color: blue;
+}
+
+article.post > header > h2 {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+/* Content */
+
+article.post > p {
+	margin-bottom: 1em;
+}
+
+article.post figure {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	width: 100%;
+}
+
+article.post figcaption {
+	text-align: center;
+	font-style: italic;
+	color: gray;
+}
